@@ -3213,11 +3213,7 @@ input, select, textarea {
 							right: 2em;
 						}
 
-		#header.reveal {
-			-moz-animation: reveal-header 0.35s ease;
-			-webkit-animation: reveal-header 0.35s ease;
-			-ms-animation: reveal-header 0.35s ease;
-			animation: reveal-header 0.35s ease;
+
 		}
 
 		#header.alt {
