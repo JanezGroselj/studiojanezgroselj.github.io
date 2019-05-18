@@ -2783,7 +2783,7 @@ input, select, textarea {
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 1;
+				opacity: 0.9;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -2791,7 +2791,7 @@ input, select, textarea {
 			}
 
 			.tiles article:after {
-				background-color: rgba(36, 41, 67,0);
+				background-color: rgba(36, 41, 67, 0.0);
 				content: '';
 				display: block;
 				height: 100%;
@@ -2803,7 +2803,7 @@ input, select, textarea {
 			}
 
 			.tiles article:hover:before {
-				opacity: 0;
+				opacity: 0.0;
 				
 			}
 
