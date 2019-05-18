@@ -3098,10 +3098,10 @@ input, select, textarea {
 		box-shadow: 200 200 0.25em 0 rgba(200, 200, 200, 0.1);
 		cursor: default;
 		font-weight: 600;
-		height: 4em;
+		height: 3.5em;
 		left: 0;
 		letter-spacing: 0.25em;
-		line-height: 4em;
+		line-height: 3.5em;
 		margin: 0;
 		position: fixed;
 		text-transform: lowercase;
