@@ -2935,12 +2935,14 @@ input, select, textarea {
 				display: block;
 				position: relative;
 				width: 30%;
+				
 			}
 
 				.spotlights > section > .image img {
 					border-radius: 0;
 					display: block;
 					width: 100%;
+					
 				}
 
 				.spotlights > section > .image:before {
@@ -2953,6 +2955,7 @@ input, select, textarea {
 					position: absolute;
 					top: 0;
 					width: 100%;
+					
 				}
 
 			.spotlights > section > .content {
@@ -2974,12 +2977,14 @@ input, select, textarea {
 				align-items: center;
 				padding: 2em 3em 0.1em 3em ;
 				width: 70%;
+				
 			}
 
 				.spotlights > section > .content > .inner {
 					margin: 0 auto;
 					max-width: 100%;
 					width: 65em;
+					
 				}
 
 			.spotlights > section:nth-child(2n) {
@@ -2988,6 +2993,7 @@ input, select, textarea {
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
 				background-color: #333856;
+				
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3101,7 +3107,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #ffffff;
+		background-color: #000000;
 		box-shadow: 200 200 0.25em 0 rgba(200, 200, 200, 0.1);
 		cursor: default;
 		font-weight: 600;
@@ -3132,8 +3138,8 @@ input, select, textarea {
 				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				background-color: #ffffff;
-				color: #000000;
+				background-color: #000000;
+				color: #ffffff;
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -3280,7 +3286,7 @@ input, select, textarea {
 
 			#header nav a[href="#menu"] {
 				padding-right: 4em !important;
-				line-height: 3em;
+				line-height: 2em;
 			}
 
 				#header nav a[href="#menu"]:last-child {
