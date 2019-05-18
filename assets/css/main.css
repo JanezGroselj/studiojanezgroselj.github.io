@@ -2779,7 +2779,7 @@ input, select, textarea {
 			}
 
 			.tiles article:after {
-				background-color: rgba(36, 41, 67, 0.25);
+				background-color: rgba(36, 41, 67, 0.0);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3224,7 +3224,7 @@ input, select, textarea {
 			animation: none;
 			background-color: transparent;
 			box-shadow: none;
-			position: relative;
+//			position: relative;
 		}
 
 			#header.alt.style1 .logo strong {
