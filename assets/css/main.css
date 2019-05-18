@@ -3095,7 +3095,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		background-color: #ffffff;
-		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
+		box-shadow: 200 200 0.25em 0 rgba(200, 200, 200, 0.1);
 		cursor: default;
 		font-weight: 600;
 		height: 4em;
@@ -3133,7 +3133,7 @@ input, select, textarea {
 			}
 
 			#header .logo:hover strong {
-				background-color: #3a3a3a;
+				background-color: #fefefe;
 			}
 
 			#header .logo:active strong {
